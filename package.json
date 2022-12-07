@@ -1,0 +1,7 @@
+{
+    "name": "fred",
+    "version": "1.0.0",
+    "bin": {
+        "fred": "index.js"
+    }
+}
