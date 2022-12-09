@@ -12,5 +12,13 @@
         "fred farwenel",
         "fredinho",
         "fred"
-    ]
+    ],
+    "license": "MIT",
+    "main": "index.js",
+    "repository": "nonSerp/fred",
+    "author": {
+        "name": "Fred Farwenel",
+        "email": "fredfarwenl2010@gmail.com",
+        "url": "https://twitter.com/fredfarwenel"
+    }
 }
